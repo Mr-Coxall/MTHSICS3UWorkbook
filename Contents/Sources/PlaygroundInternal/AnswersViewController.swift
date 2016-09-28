@@ -27,7 +27,7 @@ class AnswersViewController: UITableViewController, PlaygroundLiveViewMessageHan
         placeholderView.addSubview(titleLabel)
         
         let messageLabel = UILabel()
-        messageLabel.text = "Run your code to see your show() and ask() commands here"
+        messageLabel.text = "Run your code to see your output here."
         messageLabel.textColor = UIColor(white: 0.0, alpha: 0.5)
         messageLabel.font = UIFont.systemFont(ofSize: 17.0, weight: UIFontWeightLight)
         messageLabel.numberOfLines = 0
