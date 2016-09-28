@@ -13,7 +13,7 @@
 	<key>ContentVersion</key>
 	<string>1</string>
 	<key>ImageReference</key>
-	<string>playgroundBookIcom.jpg</string>
+	<string>playgroundBookIcon.jpg</string>
 	<key>DeploymentTarget</key>
 	<string>ios10.0</string>
 	<key>Chapters</key>
