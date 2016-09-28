@@ -13,7 +13,7 @@
 	<key>ContentVersion</key>
 	<string>1</string>
 	<key>ImageReference</key>
-	<string>Answers.png</string>
+	<string>playgroundBookIcom.jpg</string>
 	<key>DeploymentTarget</key>
 	<string>ios10.0</string>
 	<key>Chapters</key>
@@ -21,13 +21,13 @@
 	    <string>Intro.playgroundchapter</string>
 	    <string>Unit0.playgroundchapter</string>
 	    <string>Unit1.playgroundchapter</string>
-           <string>Unit3.playgroundchapter</string>
+        <string>Unit3.playgroundchapter</string>
 	    <string>Unit4.playgroundchapter</string>
-           <string>Unit5.playgroundchapter</string>
+        <string>Unit5.playgroundchapter</string>
 	    <string>Unit6.playgroundchapter</string>
-           <string>Unit7.playgroundchapter</string>
+        <string>Unit7.playgroundchapter</string>
 	    <string>Unit8.playgroundchapter</string>
-           <string>Unit9.playgroundchapter</string>
+        <string>Unit9.playgroundchapter</string>
 	    <string>Assignments.playgroundchapter</string>
 	    <string>Examples.playgroundchapter</string>
 	</array>
