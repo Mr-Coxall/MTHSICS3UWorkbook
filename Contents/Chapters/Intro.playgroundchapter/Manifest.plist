@@ -8,8 +8,8 @@
 	<string>Answers</string>
 	<key>Pages</key>
 	<array>
-		<string>Text.playgroundpage</string>
-		<string>Types.playgroundpage</string>
+		<string>Intro-01.playgroundpage</string>
+		<string>Intro-02.playgroundpage</string>
 	</array>
 </dict>
 </plist>
