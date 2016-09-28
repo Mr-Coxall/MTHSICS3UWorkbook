@@ -5,9 +5,11 @@
 	<key>Version</key>
 	<string>1.0</string>
 	<key>Name</key>
-	<string>Answers</string>
+	<string>MTHS ICS3U Workbook</string>
+	<key>Description</key>
+	<string>Your coding notebook for ICS3U.</string>
 	<key>ContentIdentifier</key>
-	<string>com.apple.playgroundbook.template.Answers</string>
+	<string>ca.mths.playgroundbook.ICS3UWorkbook</string>
 	<key>ContentVersion</key>
 	<string>1</string>
 	<key>ImageReference</key>
@@ -16,6 +18,9 @@
 	<string>ios10.0</string>
 	<key>Chapters</key>
 	<array>
+	    <string>Intro.playgroundchapter</string>
+	    <string>Unit0.playgroundchapter</string>
+	    <string>Unit1.playgroundchapter</string>
 		<string>Answers.playgroundchapter</string>
 	</array>
 </dict>
