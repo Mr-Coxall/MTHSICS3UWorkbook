@@ -21,7 +21,15 @@
 	    <string>Intro.playgroundchapter</string>
 	    <string>Unit0.playgroundchapter</string>
 	    <string>Unit1.playgroundchapter</string>
-	    <string>Answers.playgroundchapter</string>
+           <string>Unit3.playgroundchapter</string>
+	    <string>Unit4.playgroundchapter</string>
+           <string>Unit5.playgroundchapter</string>
+	    <string>Unit6.playgroundchapter</string>
+           <string>Unit7.playgroundchapter</string>
+	    <string>Unit8.playgroundchapter</string>
+           <string>Unit9.playgroundchapter</string>
+	    <string>Assignments.playgroundchapter</string>
+	    <string>Examples.playgroundchapter</string>
 	</array>
 </dict>
 </plist>
