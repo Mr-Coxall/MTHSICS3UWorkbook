@@ -5,12 +5,10 @@
 	<key>Version</key>
 	<string>1.0</string>
 	<key>Name</key>
-	<string>Answers</string>
-	<key>Pages</key>
-	<array>
-		<string>Unit1-01.playgroundpage</string>
-		<string>Unit1-02.playgroundpage</string>
-		<string>Unit1-03.playgroundpage</string>
-	</array>
+	<string>Unit #1-02</string>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>LiveViewEdgeToEdge</key>
+	<true/>
 </dict>
 </plist>
