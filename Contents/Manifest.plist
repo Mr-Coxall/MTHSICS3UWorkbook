@@ -18,7 +18,6 @@
 	<string>ios10.0</string>
 	<key>Chapters</key>
 	<array>
-	    <string>Intro.playgroundchapter</string>
 	    <string>Unit0.playgroundchapter</string>
 	    <string>Unit1.playgroundchapter</string>
         <string>Unit3.playgroundchapter</string>
