@@ -8,8 +8,14 @@
 	<string>Assignments</string>
 	<key>Pages</key>
 	<array>
-		<string>Text.playgroundpage</string>
-		<string>Types.playgroundpage</string>
+		<string>Assignment1.playgroundpage</string>
+		<string>Assignment2.playgroundpage</string>
+		<string>Assignment3.playgroundpage</string>
+		<string>Assignment4.playgroundpage</string>
+		<string>Assignment5.playgroundpage</string>
+		<string>Assignment6.playgroundpage</string>
+		<string>Assignment7.playgroundpage</string>
+		<string>Assignment8.playgroundpage</string>
 	</array>
 </dict>
 </plist>

@@ -5,11 +5,23 @@
 	<key>Version</key>
 	<string>1.0</string>
 	<key>Name</key>
-	<string>Answers</string>
+	<string>Unit #3</string>
 	<key>Pages</key>
 	<array>
-		<string>Text.playgroundpage</string>
-		<string>Types.playgroundpage</string>
+		<string>Unit3-01.playgroundpage</string>
+		<string>Unit3-02.playgroundpage</string>
+		<string>Unit3-03.playgroundpage</string>
+		<string>Unit3-04.playgroundpage</string>
+		<string>Unit3-05.playgroundpage</string>
+		<string>Unit3-06.playgroundpage</string>
+		<string>Unit3-07.playgroundpage</string>
+		<string>Unit3-08.playgroundpage</string>
+		<string>Unit3-09.playgroundpage</string>
+		<string>Unit3-10.playgroundpage</string>
+		<string>Unit3-11.playgroundpage</string>
+		<string>Unit3-12.playgroundpage</string>
+		<string>Unit3-13.playgroundpage</string>
+		<string>Unit3-14.playgroundpage</string>
 	</array>
 </dict>
 </plist>
